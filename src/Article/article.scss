@@ -1,0 +1,27 @@
+.article-section {
+  width: 1080px;
+  display: flex;
+  gap: 20px;
+  border: 1px solid coral;
+  box-shadow: inset 0px 0px 4px 4px coral;
+  padding: 30px;
+  border-radius: 30px;
+  margin-bottom: 40px;
+  font-family: sans-serif;
+}
+
+.article-image {
+  width: 200px;
+}
+
+.article-main {
+}
+
+.article-title {
+ margin-bottom: 20px;
+  font-size: 40px;
+}
+
+.article-short {
+ font-size: 20px;
+}
